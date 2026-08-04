@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abhishek4018
+- 👋 Hi, I’m Abhishek Kumar
 - 👀 I’m interested in creating a easy to use automation framework
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me abhishek4018@gmail.com
 
     ### 🚀 Featured Project: [NeoFlow-QA](https://github.com/abhishek4018/NeoFlow-QA)                                                                                                                                                     
