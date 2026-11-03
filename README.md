@@ -19,9 +19,9 @@
 <div align="center">
 
 [![0-to-1 Software Builder](https://img.shields.io/badge/⚡_0--to--1_Software_Builder_(All)-View_Full_Ecosystem-f59e0b?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/)
-[![DevOps, SRE & Cloud Platform](https://img.shields.io/badge/☁️_DevOps,_SRE_&_Cloud_Platform-?role=devops-3b82f6?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=devops)
+[![DevOps SRE  Cloud Platform](https://img.shields.io/badge/☁️_DevOps,_SRE_&_Cloud_Platform-?role=devops-3b82f6?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=devops)
 [![Founding AI & Full-Stack](https://img.shields.io/badge/🧠_Founding_AI_&_Full--Stack-?role=ai-8b5cf6?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=ai)
-[![Forward Deployed (FDE) & Solutions](https://img.shields.io/badge/🏛️_Forward_Deployed_(FDE)-?role=fde-10b981?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=fde)
+[![Forward Deployed FDE & Solutions](https://img.shields.io/badge/🏛️_Forward_Deployed_(FDE)-?role=fde-10b981?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=fde)
 [![Autonomous QA & SDET Architect](https://img.shields.io/badge/🛡️_Autonomous_QA_&_SDET-?role=qa-ec4899?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=qa)
 
 </div>
