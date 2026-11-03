@@ -14,21 +14,13 @@
 ---
 
 ### 🎯 Explore My Portfolio by Role Lens
-> Click a badge below to open my interactive portfolio pre-filtered for your engineering team's focus:
+*Click a badge below to open my interactive portfolio pre-filtered for your engineering team's focus:*
 
-<div align="center">
-
-[![0-to-1 Software Builder](https://img.shields.io/badge/⚡_0--to--1_Software_Builder_(All)-View_Full_Ecosystem-f59e0b?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/)
-
-[![DevOps SRE  Cloud Platform](https://img.shields.io/badge/☁️_DevOps,_SRE_&_Cloud_Platform-?role=devops-3b82f6?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=devops)
-
-[![Founding AI & Full-Stack](https://img.shields.io/badge/🧠_Founding_AI_&_Full--Stack-?role=ai-8b5cf6?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=ai)
-
-[![Forward Deployed FDE & Solutions](https://img.shields.io/badge/🏛️_Forward_Deployed_(FDE)-?role=fde-10b981?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=fde)
-
-[![Autonomous QA & SDET Architect](https://img.shields.io/badge/🛡️_Autonomous_QA_&_SDET-?role=qa-ec4899?style=flat-square)](https://abhishek4018.github.io/MyPortfolio/?role=qa)
-
-</div>
+[![0-to-1 Software Builder](https://img.shields.io/badge/Lens-0--to--1_Software_Builder_(All)-FF014F?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishek4018.github.io/MyPortfolio/)
+[![DevOps, SRE & Cloud Platform](https://img.shields.io/badge/Lens-DevOps_%26_SRE_Platform-10B981?style=for-the-badge&logo=kubernetes&logoColor=white)](https://abhishek4018.github.io/MyPortfolio/?role=devops)
+[![Founding AI & Full-Stack](https://img.shields.io/badge/Lens-Founding_AI_Engineer-8B5CF6?style=for-the-badge&logo=googlecloud&logoColor=white)](https://abhishek4018.github.io/MyPortfolio/?role=ai)
+[![Forward Deployed (FDE) & Solutions](https://img.shields.io/badge/Lens-Forward_Deployed_(FDE)-F59E0B?style=for-the-badge&logo=cloudflare&logoColor=white)](https://abhishek4018.github.io/MyPortfolio/?role=fde)
+[![Autonomous QA & SDET Architect](https://img.shields.io/badge/Lens-Autonomous_QA_Architect-06B6D4?style=for-the-badge&logo=playwright&logoColor=white)](https://abhishek4018.github.io/MyPortfolio/?role=qa)
 
 ---
 
